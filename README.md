@@ -1,4 +1,4 @@
-# TODO App
+# Recipes APP
 
 _Un pequeño ejercicio hecho en React de un buscador de recetas_
 
